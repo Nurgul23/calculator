@@ -1,0 +1,24 @@
+.ekran {
+	width: 260px;
+	height: 170px;
+	border: 1px solid black;
+	background: #494eca;
+}
+.butonlar {
+	width: 260px;
+	height: 250px;
+	border:1px solid black;
+	background: black;
+	padding-top: 10px;
+
+}
+.btn {
+
+	width: 55px;
+	height: 45px;
+	padding: 0;
+
+}
+input {
+	background: white;
+}
